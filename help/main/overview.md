@@ -1,15 +1,15 @@
 ---
-title: Advertising Cloud DSPTutorials
+title: Advertising Cloud 教學課程
 description: Adobe Advertising Cloud 的影片和教學課程系列。
 audience: all
 activity: use
 doc-type: overview
 team: Technical Marketing
 exl-id: aa9d9ff5-115f-44c6-b23d-3fc034904697
-source-git-commit: f2e3c5ad2653801fa777a627886feffab2aad17c
+source-git-commit: 02b9298306feab40e97813ed6651253160eb376b
 workflow-type: tm+mt
-source-wordcount: '53'
-ht-degree: 24%
+source-wordcount: '52'
+ht-degree: 30%
 
 ---
 
