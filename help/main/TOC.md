@@ -2,12 +2,11 @@
 user-guide-title: Adobe Advertising Cloud 教學課程
 user-guide-description: Adobe Advertising Cloud 的影片和教學課程系列。
 breadcrumb-title: Advertising Cloud 教學課程
-breadcrumb-url: /docs/advertising-cloud-learn/dsp/overview.html
 solution: Advertising Cloud
-source-git-commit: 48ca6fcc4b72981535b8431da66c030aa5e0ff71
+source-git-commit: 51653563d0c9a304a30eefef31865e2cc0cb738e
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 24%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
