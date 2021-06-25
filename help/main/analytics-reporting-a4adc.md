@@ -4,7 +4,7 @@ description: 了解Advertising Cloud閱覽和點進項目資料如何與Adobe An
 exl-id: 9fadf819-17bf-47cc-b763-1375e426552f
 source-git-commit: eaae31ff9cc2ca1b9b4de42a07b34673c247799b
 workflow-type: tm+mt
-source-wordcount: '44'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
