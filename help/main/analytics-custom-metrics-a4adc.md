@@ -4,7 +4,7 @@ description: 了解在Adobe Analytics中使用Advertising Cloud資料時可建�
 exl-id: 56077529-443d-4285-9238-13b07b26ad08
 source-git-commit: 572041c0573f651405c5daa269c5433326db0814
 workflow-type: tm+mt
-source-wordcount: '46'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
