@@ -11,6 +11,6 @@ ht-degree: 0%
 
 # 使用Advertising Cloud行銷管道(A4AdC)建立報表
 
-了解Advertising Cloud閱覽和點進項目資料如何與Adobe Analytics [!UICONTROL Marketing Channels]搭配運作。
+了解Advertising Cloud閱覽和點進項目資料如何與Adobe Analytics搭配運作 [!UICONTROL Marketing Channels].
 
 >[!VIDEO](https://video.tv.adobe.com/v/33502)
