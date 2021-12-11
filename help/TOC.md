@@ -3,7 +3,7 @@ user-guide-title: Adobe Advertising Cloud 教學課程
 user-guide-description: Adobe Advertising Cloud 的影片和教學課程系列。
 breadcrumb-title: Advertising Cloud 教學課程
 solution: Advertising Cloud
-source-git-commit: edc34ada8963b389a26a1e466c2154d21a10ca61
+source-git-commit: dffd703372fd2b14e3f13d1c6c9a754301a6b0ac
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 17%
@@ -36,3 +36,5 @@ ht-degree: 17%
   + [Placement Targeting Capabilities](/help/dsp/placement-targeting.md)
   + [Audience Libraries and Applying Behavioral Targeting](/help/dsp/audience-libraries.md)
 -->
+
+<!-- If I move the "Analytics for Advertising Cloud chapter into a larger Integrations chapter, then I'll need to set up redirects by copying a CSV file into this repo and populating it for those legacy file names. -->
