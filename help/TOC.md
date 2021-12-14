@@ -3,10 +3,10 @@ user-guide-title: Adobe Advertising Cloud 教學課程
 user-guide-description: Adobe Advertising Cloud 的影片和教學課程系列。
 breadcrumb-title: Advertising Cloud 教學課程
 solution: Advertising Cloud
-source-git-commit: 8dc83853ba6aeb4c46fea84ebd450fbaa20e928c
+source-git-commit: 02b8109c14e3b42ab7c6149009e6408f8478e251
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '121'
+ht-degree: 17%
 
 ---
 
@@ -18,8 +18,8 @@ ht-degree: 0%
    + [Advertising Cloud DSP簡介](/help/dsp/intro.md)
    + [帳戶結構和使用者介面](/help/dsp/ui.md)
    + [如何建立套件](/help/dsp/package-create.md)
-   + [如何大量上傳協力廠商廣告標籤](/help/dsp/bulk-upload-third-party-ad-tags.md)
    + [如何使用大量編輯工具編輯版位](/help/dsp/bulk-edit-placement-tools.md)
+   + [如何大量上傳協力廠商廣告標籤](/help/dsp/bulk-upload-third-party-ad-tags.md)
 + Analytics for Advertising Cloud {#analytics}
    + [A4AdC簡介](/help/integrations/analytics/intro-a4adc.md)
    + [建立Advertising Cloud網站項目報表](/help/integrations/analytics/analytics-site-entry-a4adc.md)
