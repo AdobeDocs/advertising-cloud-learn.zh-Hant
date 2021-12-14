@@ -3,10 +3,10 @@ user-guide-title: Adobe Advertising Cloud 教學課程
 user-guide-description: Adobe Advertising Cloud 的影片和教學課程系列。
 breadcrumb-title: Advertising Cloud 教學課程
 solution: Advertising Cloud
-source-git-commit: dffd703372fd2b14e3f13d1c6c9a754301a6b0ac
+source-git-commit: 8dc83853ba6aeb4c46fea84ebd450fbaa20e928c
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 17%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 17%
    + [使用Advertising Cloud建立Adobe Analytics](/help/integrations/analytics/analytics-dashboards-a4adc.md)
    + [使用Advertising Cloud資料建立Analytics自訂量度](/help/integrations/analytics/analytics-custom-metrics-a4adc.md)
 
-<!-- Will add to DSP chapter once the videos are complete:
+<!-- Add to DSP chapter once the videos are complete:
   + [How to Create a Placement](/help/dsp/placement-create.md)
   + [Placement Targeting Capabilities](/help/dsp/placement-targeting.md)
   + [Audience Libraries and Applying Behavioral Targeting](/help/dsp/audience-libraries.md)
