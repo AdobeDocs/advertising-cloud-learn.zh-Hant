@@ -1,16 +1,16 @@
 ---
-title: Advertising Cloud DSP的版位鎖定目標功能
+title: DSP的版位鎖定目標功能
 description: 了解您版位的不同鎖定目標選項。
-source-git-commit: bc4c9b3852211e25ef1981c38d03e3bb47c60964
+source-git-commit: 2293acc5d4ee8acb9c631790853645661edafa34
 workflow-type: tm+mt
-source-wordcount: '31'
+source-wordcount: '27'
 ht-degree: 0%
 
 ---
 
 # 版位鎖定功能
 
-了解您Advertising Cloud DSP版位的不同鎖定目標選項。
+了解DSP版位的不同鎖定目標選項。
 
 <!--
 >[!VIDEO]()

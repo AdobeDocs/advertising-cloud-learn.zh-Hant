@@ -1,15 +1,16 @@
 ---
-title: 如何為Advertising Cloud DSP建立標準顯示放置
-description: 瞭解如何建立標準顯示放置。
-source-git-commit: ebceb6cdd931dfb799d2b54f3ab5be84e227e7dd
+title: 如何建立DSP的標準顯示版位
+description: 了解如何建立標準顯示版位。
+exl-id: 5eb60b2b-e3c7-4faf-887c-f14a9c50d2b5
+source-git-commit: 2293acc5d4ee8acb9c631790853645661edafa34
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '36'
 ht-degree: 0%
 
 ---
 
-# 如何建立標準顯示放置
+# 如何建立標準顯示版位
 
-瞭解如何為Advertising Cloud DSP市場活動建立標準顯示位置。
+了解如何為DSP促銷活動建立標準顯示版位。
 
 >[!VIDEO](https://video.tv.adobe.com/v/340454)

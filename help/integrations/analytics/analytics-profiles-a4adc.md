@@ -1,18 +1,18 @@
 ---
-title: 建立 [!DNL Analytics] Advertising Cloud啟用與報告的設定檔
-description: 了解如何使用Adobe Analytics為Advertising Cloud再行銷建立強大的網站重新鎖定群組。
+title: 建立 [!DNL Analytics] Adobe廣告啟動與報告的設定檔
+description: 了解如何使用Adobe Analytics，為Adobe廣告再行銷建立強大的網站重新目標定位池。
 exl-id: e367435c-238a-4025-a160-ff72d45ea741
-source-git-commit: 1a5d4f41f6ef3e297fea43c6557513e7f5cfc900
+source-git-commit: 2293acc5d4ee8acb9c631790853645661edafa34
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 0%
 
 ---
 
-# 建立 [!DNL Analytics] Advertising Cloud啟用與報告的設定檔
+# 建立 [!DNL Analytics] Adobe廣告啟動與報告的設定檔
 
-*廣告商與[!DNL Adobe Analytics for Advertising Cloud]*
+*廣告商與[!DNL Adobe Analytics for Adobe Advertising]*
 
-了解如何使用Adobe Analytics為Advertising Cloud再行銷建立強大的網站重新鎖定群組。
+了解如何使用Adobe Analytics，為Adobe廣告再行銷建立強大的網站重新目標定位池。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33503)
