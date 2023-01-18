@@ -1,10 +1,9 @@
 ---
 title: AdobeAdvertising DSP簡介
 description: 了解AdobeAdvertising DSP，以及它如何讓您的媒體行銷活動受益。
-exl-id: 6aa44b8e-da4d-4141-b7b5-989046586315
-source-git-commit: 2293acc5d4ee8acb9c631790853645661edafa34
+source-git-commit: 3ea5208bb5cc560a1563cfd9b9647462560d7e67
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

@@ -1,10 +1,9 @@
 ---
 title: 建立 [!DNL Analytics] 用於啟動和報告的區段
 description: 了解如何使用Adobe廣告維度建立區段，以簡化報表和分析作業。
-exl-id: f797e982-e49d-4038-982e-f2635e56591b
-source-git-commit: 2293acc5d4ee8acb9c631790853645661edafa34
+source-git-commit: 3ea5208bb5cc560a1563cfd9b9647462560d7e67
 workflow-type: tm+mt
-source-wordcount: '44'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

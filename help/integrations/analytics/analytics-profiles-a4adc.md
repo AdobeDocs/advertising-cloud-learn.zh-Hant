@@ -1,10 +1,9 @@
 ---
 title: 建立 [!DNL Analytics] Adobe廣告啟動與報告的設定檔
 description: 了解如何使用Adobe Analytics，為Adobe廣告再行銷建立強大的網站重新目標定位池。
-exl-id: e367435c-238a-4025-a160-ff72d45ea741
-source-git-commit: 2293acc5d4ee8acb9c631790853645661edafa34
+source-git-commit: 3ea5208bb5cc560a1563cfd9b9647462560d7e67
 workflow-type: tm+mt
-source-wordcount: '50'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

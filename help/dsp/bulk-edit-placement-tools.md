@@ -1,10 +1,9 @@
 ---
 title: 如何使用大量編輯工具編輯版位(DSP)
 description: 了解如何一次編輯多個版位的設定。
-exl-id: 3c9abc04-0261-4ba1-a19d-68a6d862f660
-source-git-commit: 2293acc5d4ee8acb9c631790853645661edafa34
+source-git-commit: 3ea5208bb5cc560a1563cfd9b9647462560d7e67
 workflow-type: tm+mt
-source-wordcount: '42'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
